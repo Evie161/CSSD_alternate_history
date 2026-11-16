@@ -1,22 +1,21 @@
 {
-  "name": " social_democracy_alternate_history",
-  "version": "0.11.1",
-  "description": "Building the game:",
+  "name": " CSSD_alternate_history",
+  "version": "0.0.1",
   "main": "out/html/index.html",
   "scripts": {
-    "dendrynexus": "dendrynexus"
+    "build": "npx dendrynexus make-html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://aucchen@github.com/aucchen/social_democracy_alternate_history.git"
+    "url": "git+https://github.com/Evie161/CSSD_alternate_history.git"
   },
   "keywords": [],
-  "author": "Autumn Chen",
+  "author": "Evie161",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aucchen/social_democracy_alternate_history/issues"
   },
-  "homepage": "https://github.com/aucchen/social_democracy_alternate_history",
+  "homepage": "https://github.com/Evie161/CSSD_alternate_history",
   "dependencies": {
     "dendrynexus": "github:aucchen/dendrynexus",
     "parliament-svg": "^3.0.0"
